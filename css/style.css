@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;    /*a elementinin linklerinin altnda ki çizgileri kaldırma */
+}
+
+body {
+    background-color: #E9ECEF; /*arka plan rengini bütün sayfaların değiştirdim */
+}
+
+
+div h5 {
+    color:rgb(99, 24, 168);
+}
+
+
+
+
